@@ -5,12 +5,13 @@
     font-family: 'inter', sans-serif;
 }
 
-a{
+a {
     color: inherit;
 }
 
 body {
     background-color: rgb(29, 34, 37);
+    height: 100vh;
 }
 
 img {
