@@ -10,8 +10,9 @@ a {
 }
 
 body {
-    background-color: rgb(29, 34, 37);
     height: 100vh;
+    background: linear-gradient(0deg, rgba(24,30,36,1) 0%, rgba(24,32,41,1) 25%, rgba(24,30,36,1) 50%, rgba(24,32,41,1) 75%, rgba(24,30,36,1) 100%);
+
 }
 
 img {
@@ -20,7 +21,12 @@ img {
 
 .container {
     margin: 0 auto;
-    max-width: 800px;
+    max-width: 700px;
     padding: 0 15px;
     width: 100%;
+}
+
+.description-reg {
+    font-size: 20px;
+    color: #f5f9ffc4;
 }
