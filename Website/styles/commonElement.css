@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'inter', sans-serif;
+}
+
+a{
+    color: inherit;
+}
+
+body {
+    background-color: rgb(29, 34, 37);
+}
+
+img {
+    max-width: 100%;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 0 15px;
+    width: 100%;
+}

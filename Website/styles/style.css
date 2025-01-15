@@ -1,0 +1,48 @@
+/* Top section starts here  */
+
+.top-section {}
+
+.top-contents {}
+
+.top-contents img {
+    width: 30px;
+    height: auto;
+}
+
+/* Top section Ends here  */
+
+/* Middle section starts here  */
+
+.middle-section {}
+
+.middle-contents {}
+
+.middle-contents img {
+    width: 200px;
+    height: auto;
+}
+
+.middle-contents h1 {}
+
+.middle-contents p {}
+
+.middle-contents button{
+    border: none;
+    background-color: azure;
+    padding: 8px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+/* Middle section Ends here  */
+
+/* Bottom section starts here  */
+
+.bottom-section {}
+
+.bottom-contents {}
+
+.bottom-contents p {}
+
+/* Bottom section Ends here  */
